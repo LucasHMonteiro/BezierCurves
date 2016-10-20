@@ -1,0 +1,1 @@
+gcc bezier.c menu.o -o "Bezier Curves.exe" -lgdi32 -lcomdlg32 -w
